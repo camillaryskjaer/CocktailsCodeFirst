@@ -19,5 +19,10 @@ namespace Cocktails
         {
             Milliliters = _ml;
         }
+
+        public Fluid()
+        {
+
+        }
     }
 }

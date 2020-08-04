@@ -10,6 +10,11 @@ namespace Cocktails
     {
         public float Amount { get; set; }
 
+        public Solid()
+        {
+
+        }
+
         public Solid(string _name) : base(_name)
         {
 

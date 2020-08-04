@@ -11,5 +11,10 @@ namespace Cocktails
         public Ingridient(string _name) : base(_name)
         {
         }
+
+        public Ingridient()
+        {
+
+        }
     }
 }
