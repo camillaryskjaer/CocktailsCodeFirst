@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+//Du blander lagene en del - husk 3 lags modellen!
 namespace Cocktails
 {
     class Program
